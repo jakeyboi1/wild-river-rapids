@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <p class="text-5xl">
+    uabdbuwad
+  </p>
 </template>
